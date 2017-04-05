@@ -1,0 +1,13 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	/*box-sizing: border-box;*/
+}
+
+table th {
+	background: #f4f5ff6;
+}
+
+tr:hover {
+	background: #light-blue;
+}
